@@ -226,7 +226,7 @@ print(agent.performance)
 ~~~
 
 # OUTPUT 
-![image](https://github.com/21005984/19AI405ExpNo1/assets/94748389/0d567d50-84f6-41d4-9dfe-ac72c9b33122)
+![ai_ex_1](https://github.com/user-attachments/assets/45351867-1af1-4844-aa9b-718aa5cb8ffc)
 
 # RESULT :
 Thus, an AI agent is developed.
