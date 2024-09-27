@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Rahul V
-<h3>Register Number: 212223240133
+<h3>Name: THAMARAISELVAN V
+<h3>Register Number: 212221230115
 <h3>AIM:</h3>
 <br>
 <p>To find the PEAS description for the given AI problem and develop an AI agent.</p>
